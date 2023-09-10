@@ -41,10 +41,8 @@ while (val_1 <= '9')
 			val_3++;
 		}
 		val_3 = '0';
-		val_2++;
-	}
+		val_2++; }
 	val_2 = '0';
-	val_1++;
-}
+	val_1++; }
 return (0);
 }
