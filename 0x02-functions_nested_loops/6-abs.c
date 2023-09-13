@@ -2,7 +2,7 @@
 /**
  * _abs - absolute value function of an int
  *
- * @r: the value
+ * @val: the value
  *
  * Description: standard library function
  *
