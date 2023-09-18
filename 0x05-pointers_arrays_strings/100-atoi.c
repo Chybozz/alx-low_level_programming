@@ -39,8 +39,8 @@ int _atoi(char *s)
 		x++;
 	}
 
-	if n(f == 0)
+	if (fn == 0)
 		return (0);
 
-	return (n);
+	return (z);
 }
