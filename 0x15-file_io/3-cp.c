@@ -11,7 +11,7 @@ void check_IO_stat(int stat, int fd, char *filename, char mode);
  * @argc: the argument count
  * @argv: the argument passed
  *
- * Return: 1 0n success, exit otherwise
+ * Return: 1 on success, exit otherwise
  */
 int main(int argc, char *argv[])
 {
