@@ -49,6 +49,7 @@ int main(int argc, char *argv[])
  * @stat: file descriptor of file to be opened
  * @filename: name of file
  * @fd: file descriptor
+ * @mode: closing or opening
  *
  * Return: void
  */
